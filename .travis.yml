@@ -1,0 +1,5 @@
+---
+language: c 
+dist: bionic 
+install: skip
+script: echo "Welcome to the Crikey compiler!" 
