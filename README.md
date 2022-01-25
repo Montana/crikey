@@ -12,6 +12,7 @@ Crikey is a tiny compiler for a very simple language consisting of boolean expre
 ### Things coming
 
 * Thunda conditional 
+* The compiler itself is a WIP (working now though)
 
 ## Vegemite conditional
 
