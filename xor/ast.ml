@@ -21,5 +21,6 @@ module Byte = struct
     | Pop
     | Hold
     | Nand
+    | Vegemite
   and prog = instr list
 end
