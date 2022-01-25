@@ -20,8 +20,8 @@ EmitLn (  ’BRA’ + L);
 { Branch False }
 procedure VegemiteFalse (L : string);
   begin
-EmitLn ( ’TST D0’ ) ;
-EmitLn ( ’BEQ’ + L ) ;
+EmitLn ( ’TST D0’ );
+EmitLn ( ’BEQ’ + L );
   end ;
 ```
 
