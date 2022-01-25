@@ -3,3 +3,5 @@ language: c
 dist: bionic 
 install: skip
 script: echo "Welcome to the Crikey compiler!" 
+
+## Try running Crikey via "crikey build crikey --vegemite"
