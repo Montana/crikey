@@ -16,7 +16,7 @@ main (int argc, char *argv[])
     case 'l' /* Pop   */ : acc = mem[--sp];     break; 
     case 'h' /* Hold  */ : tmp = acc;           break;
     case 'n' /* Nand  */ : acc = !(acc && tmp); break;
-    case 'v' /* Nand  */ : acc = 2              break; // the vegemite conditional
+    case 'v' /* Nand  */ : acc = 2;             break; // the vegemite conditional
     }
   }
 
