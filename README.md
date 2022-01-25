@@ -9,6 +9,10 @@ The compiler from down under.
 
 Crikey is a tiny compiler for a very simple language consisting of boolean expressions. The language has two constants: `1` for true and `0` for false, and 5 logic gates: `!` (not), `&` (and), | `(or)`, and ^ `(xor)` & `vegemite`. 
 
+### Things coming
+
+* Thunda conditional 
+
 ## Vegemite conditional
 
 Use the `vegemite` conditional for new code generation and routines, so for example the `vegemite` conditional and unconditional branches:
