@@ -1,5 +1,8 @@
 # Crikey [![Build Status](https://app.travis-ci.com/Montana/crikey.svg?branch=master)](https://app.travis-ci.com/Montana/crikey)
 
+
+<img width="676" alt="Screen Shot 2022-01-24 at 5 17 25 PM" src="https://user-images.githubusercontent.com/20936398/150892662-c47ce4aa-cd34-4d6c-b3ed-80783b869c63.png">
+
 The compiler from down under.
 
 ## What is this?
