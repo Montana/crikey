@@ -1,4 +1,4 @@
-# Crikey
+# Crikey [![Build Status](https://app.travis-ci.com/Montana/crikey.svg?branch=master)](https://app.travis-ci.com/Montana/crikey)
 
 The compiler from down under.
 
