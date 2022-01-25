@@ -21,5 +21,5 @@ let run code =
     | Pop   :: p -> exec p (List.hd stack) tmp (List.tl stack)
     | Hold  :: p -> exec p acc acc stack
     | Nand  :: p -> exec p (not (acc && tmp)) tmp stack
-    | Vegemite :: p -> exec (List.hd stack) tmp (value :: stack)
+    | Vegemite :: p -> exec p (List.hd stack) tmp (value :: stack)
   in exec code false false []
